@@ -1,11 +1,20 @@
 [Back to Readme](../README.md)
 ---
-# Types of Data Excercise
+## Types of Data
+
+| Data Type     | Examples                  |
+| ------------- | ------------------------- |
+| Binary        | Content Cell              |
+| Nominal       | Content Cell              |
+| Discrete      | Content Cell              |
+| Continuous    | Content Cell              |
+
+# Answer These
 Please indicate the type of data for each of the following.
 
 1. The gummy worm increased by 2 inches.
 2. There were four dogs in the group.
-3. The dogs were small. -- qualitative
+3. The dogs were small.
 4. The sample contained 3 different types of bacteria.
 5. The patient complained of aches and pains.
 6. The patient had a temperature 102 degrees.

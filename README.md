@@ -10,5 +10,7 @@ Learning Goals
 - [x] Apply foundational concepts of data processing such as data structure, algorithms and analysis
 - [x] Leverage knowledge of key subject areas, stats, analysis and data vizualization
 
-### Excercises
-[Type of Data](Excercises/types-of-data.md)
+### [Type of Data](Excercises/types-of-data.md)
+
+### FAQs
+- 
