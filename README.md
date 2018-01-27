@@ -9,3 +9,6 @@ Learning Goals
 - [x] Learn key aspects of data science
 - [x] Apply foundational concepts of data processing such as data structure, algorithms and analysis
 - [x] Leverage knowledge of key subject areas, stats, analysis and data vizualization
+
+### Excercises
+[Type of Data](Excercises/types-of-data.md)
