@@ -3,7 +3,7 @@ By Dr Lay Cher Han
 State Advisor for Johor and Selangor in SmartCity & Data Automation
 
 Learning Goals
-- [ ] How to develop hypothesis and recast into data questions
+- [x] How to develop hypothesis and recast into data questions
 - [ ] How to predict using data
 - [ ] Basic python — Popular programming language for data science
 - [ ] Learn key aspects of data science
